@@ -1,4 +1,4 @@
-                        mise en pratique des option flex 
+                        mise en pratique des options flex 
 
                         display flex  ✔️
                         flex direction  ✔️
